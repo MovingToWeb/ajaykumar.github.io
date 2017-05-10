@@ -1,7 +1,7 @@
 {
   "name": "resume",
   "version": "5.0.0",
-  "description": "Resume of Veera Sundar",
+  "description": "Resume of Ajay Kumar",
   "scripts": {
     "server": "grunt connect"
   },
